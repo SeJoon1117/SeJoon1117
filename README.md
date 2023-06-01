@@ -10,7 +10,7 @@
   <a href="mailto:asj87451107@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=asj87451107@gmail.com"/></a>
  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeJoon1117&theme=dark&show_icons=true)
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=SeJoon1117&theme=highcontrast)](https://git.io/streak-stats)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=SeJoon1117&theme=highcontrast)
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=asj001117)](https://solved.ac/asj001117/)
   
 </div>
