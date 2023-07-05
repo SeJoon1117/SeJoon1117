@@ -11,7 +11,7 @@
  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeJoon1117&theme=dark&show_icons=true)
   ![GitHub Streak](https://streak-stats.demolab.com/?user=SeJoon1117&theme=highcontrast)
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=asj001117)](https://solved.ac/asj001117/)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ansejoon1117)](https://solved.ac/ansejoon1117/)
   
 </div>
 
